@@ -1,2 +1,2 @@
-## IBM_Capstone_Project_2
-### Editing the file
+## IBM_Capstone_Project
+### Final Project for the IBM Data Science ceritfication
